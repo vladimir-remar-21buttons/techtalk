@@ -2,8 +2,6 @@
 
 ## Practice
 
-### Virtualenv
-
 - Make a virtualenv
 
 		mkvirtualenv --python=/usr/bin/python3 scrapy_test
@@ -36,5 +34,5 @@
 
 - Webs
 
+	- https://www.eventbrite.com/d/spain--barcelona/events/
 	- https://www.knowyourinstrument.com/
-	- https://www.ticketmaster.es (//div[contains(@class,"sc-2mfaq8-0")]//a[contains(text(),"Metal")])
